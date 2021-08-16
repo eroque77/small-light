@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Small Light</Text>    
+      <Text>Small Light - GIT - FIRST</Text>    
     </View>
   );
 }
